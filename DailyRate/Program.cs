@@ -33,7 +33,7 @@ namespace DailyRate
         void run()
         {
             double fee = caculateFee(theDailyRate: 375.0);
-            Console.WriteLine($"Fee is {fee);
+            Console.WriteLine($"Fee is fee);
         }
     }
 }
